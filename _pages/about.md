@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Post-doctoral researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: picture.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Institut de la Vision</p>
+    <p>Sorbonne Université, CNRS, INSERM</p>
+    <p>Paris, France</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Computer scientist with a maker attitude, with a passion for building complex systems that can work in real-life scenarios. I am a professional coder and a PhD in biorobotics with international research experience. Not afraid to get my hands dirty in order to build interesting things.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Like most geeks, I enjoy passing time by reading comics books, playing video games and watching sci-fi movies, but I also dedicate part of my spare time to study more about computer science, customize my prompt and develop pet projects such as programs to automate daily activities, software libraries and games.
