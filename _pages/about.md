@@ -6,7 +6,7 @@ description: Post-doctoral researcher
 
 profile:
   align: right
-  image: picture.jpg
+  image: picture.png
   address: >
     <p>Institut de la Vision</p>
     <p>Sorbonne Université, CNRS, INSERM</p>
