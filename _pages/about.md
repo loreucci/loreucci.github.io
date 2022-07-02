@@ -8,8 +8,7 @@ profile:
   align: right
   image: picture.png
   address: >
-    <p>Institut de la Vision</p>
-    <p>Sorbonne Université, CNRS, INSERM</p>
+    <p>MathWorks</p>
     <p>Paris, France</p>
 
 news: false  # includes a list of news items

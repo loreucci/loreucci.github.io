@@ -11,10 +11,19 @@ description:
 
 <br/>
 
+### Software Engineer
+**MathWorks, Paris, France**
+<br/>
+*July 2022 - Current*
+
+Working on the Polyspace code proving/verification tool.
+
+<br/>
+
 ### Post-doctoral Researcher
 **Istitut de la Vision, Sorbonne Université - CNRS - INSERM, Paris, France**
 <br/>
-*July 2020 - Current*
+*July 2020 - June 2022*
 
 Creating novel event-based machine learning algorithms for processing of neuromorphic sensors.
 
