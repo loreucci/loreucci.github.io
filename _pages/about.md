@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Post-doctoral researcher
+description: C++ Software Developer
 
 profile:
   align: right
