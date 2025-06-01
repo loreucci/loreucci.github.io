@@ -11,12 +11,21 @@ description:
 
 <br/>
 
+### Senior Software Engineer
+**MathWorks, Paris, France**
+<br/>
+*April 2025 - Current*
+
+Working on the [Polyspace Test](https://www.mathworks.com/products/polyspace-test.html) dynamic analysis tool.
+
+<br/>
+
 ### Software Engineer
 **MathWorks, Paris, France**
 <br/>
-*July 2022 - Current*
+*July 2022 - April 2025*
 
-Working on the Polyspace code proving/verification tool.
+Working on the [Polyspace Test](https://www.mathworks.com/products/polyspace-test.html) dynamic analysis tool.
 
 <br/>
 
@@ -104,5 +113,5 @@ Courses attended: basic programming, AI, software engineering, operating systems
 
 * Italian (native)
 * English (advanced)
-* French (intermediate)
+* French (advanced)
 * Japanese (beginner)

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: C++ Software Developer
+description: Senior Software Developer
 
 profile:
   align: right
